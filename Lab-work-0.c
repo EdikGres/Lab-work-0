@@ -5,7 +5,7 @@
 int main() {
 	
 	char* locale = setlocale(LC_ALL, ""); //Так мы настраиваем русские символы задав культуру(локаль)
-	printf("Здраввствуйте! \n");
+	printf("Здравствуйте! \n");
 	firsttask();
 	//printf("Результат a-b= %d", firsttask()); 
 
